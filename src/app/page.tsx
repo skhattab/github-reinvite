@@ -41,7 +41,7 @@ export default function Page() {
     return firstAssignment || "🧑‍💻 Campus Portal (JS Exercises)";
   });
   const [username, setUsername] = useState("");
-  const [permission, setPermission] = useState<"pull"|"triage"|"push"|"maintain"|"admin">("admin");
+  const [permission, setPermission] = useState<"push">("push");
   const [dryRun, setDryRun] = useState(false);
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<Result | null>(null);
