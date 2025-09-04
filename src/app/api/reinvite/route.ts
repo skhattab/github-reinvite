@@ -31,6 +31,9 @@ export async function POST(req: NextRequest) {
     });
 
     const matches = invitations.filter(inv => inv.invitee?.login?.toLowerCase() === username.toLowerCase());
+    if (matches.length === 0) {
+      return NextResponse.json({ message: "No matching invitation found." });
+    }
     const deleted: Array<{ id: number }> = [];
 
     // 2) Delete matching invitations
