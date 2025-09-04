@@ -258,7 +258,7 @@ export default function Page() {
             </label>
             <select 
               value={permission} 
-              onChange={e => setPermission(e.target.value as "pull"|"triage"|"push"|"maintain"|"admin")}
+              onChange={e => setPermission(e.target.value as "push")}
               style={{
                 padding: "0.875rem 1rem",
                 border: "2px solid #e5e7eb",
