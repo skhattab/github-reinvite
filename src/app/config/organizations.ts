@@ -2,7 +2,7 @@
 export const ORGANIZATIONS = {
   "cs1501-2261": {
     name: "CS 1501 Fall25",
-    owner: "skhattab", // GitHub organization/owner name
+    owner: "cs1501-2261", // GitHub organization/owner name
     assignments: {
 
       "🧑‍💻Lab: JDB Lab (Not For Grade)": "cs1501-jdblab",
@@ -13,7 +13,7 @@ export const ORGANIZATIONS = {
   },
   "cs0445-2261": {
     name: "CS 0445 Fall25",
-    owner: "skhattab", // GitHub organization/owner name
+    owner: "cs0445-2261", // GitHub organization/owner name
     assignments: {
 
       "🧑‍💻Lab: JDB Lab (Not For Grade)": "cs0445-jdblab",
