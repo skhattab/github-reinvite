@@ -19,7 +19,8 @@ function getOctokit() {
 export async function POST(req: NextRequest) {
   try {
     const json = await req.json();
-    const { owner, repo, username, permission, dryRun } = bodySchema.parse(json);
+    const { owner, repo, username, dryRun } = bodySchema.parse(json);
+    const permission = "push"
 
     const octokit = getOctokit();
 
@@ -64,7 +65,7 @@ export async function POST(req: NextRequest) {
         owner,
         repo,
         username,
-        "push"
+        permission, // pull | triage | push | maintain | admin
       });
 
       // Some responses include an invitation object in the body,
