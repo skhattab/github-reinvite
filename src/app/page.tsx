@@ -7,7 +7,7 @@ interface Input {
   owner: string;
   repo: string;
   username: string;
-  permission: "pull" | "triage" | "push" | "maintain" | "admin";
+  permission: "push";
 }
 
 interface Invitation {
@@ -272,11 +272,7 @@ export default function Page() {
               onFocus={(e) => e.target.style.borderColor = "#8B0000"}
               onBlur={(e) => e.target.style.borderColor = "#e5e7eb"}
             >
-              <option value="pull">📖 Pull (Read)</option>
-              <option value="triage">🔍 Triage</option>
               <option value="push">✏️ Push (Write)</option>
-              <option value="maintain">🔧 Maintain</option>
-              <option value="admin">👑 Admin</option>
             </select>
           </div>
 

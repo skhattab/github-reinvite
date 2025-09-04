@@ -1,20 +1,25 @@
 // Organization and assignment mappings
 export const ORGANIZATIONS = {
-  "IT3049C-Fall25": {
-    name: "IT3049C Fall25",
-    owner: "IT3049C", // GitHub organization/owner name
+  "cs1501-2261": {
+    name: "CS 1501 Fall25",
+    owner: "skhattab", // GitHub organization/owner name
     assignments: {
 
-      "🧑‍💻Lab: Git Started - Your Profile": "git-started-with-you-profile",
-      "🧑‍💻 Campus Portal (JS Exercises)": "js-exercise-campus-portal",
+      "🧑‍💻Lab: JDB Lab (Not For Grade)": "cs1501-jdblab",
+      "🧑‍💻 Lab 1: ": "cs1501-lab1",
+      "🧑‍💻 Lab 2: ": "cs1501-lab2",
+      "🧑‍💻 Assignment 1: ": "cs1501-assignment-1",
     }
   },
-  "IT2053C-Fall25": {
-    name: "IT2053C Fall25",
-    owner: "IT2053C-Gilany", // GitHub organization/owner name
+  "cs0445-2261": {
+    name: "CS 0445 Fall25",
+    owner: "skhattab", // GitHub organization/owner name
     assignments: {
-      "Env Setup Check": "env-setup-check",
-      "Python Bootcamp": "python-bootcamp",
+
+      "🧑‍💻Lab: JDB Lab (Not For Grade)": "cs0445-jdblab",
+      "🧑‍💻 Lab 1: ": "cs0445-lab1",
+      "🧑‍💻 Lab 2: ": "cs0445-lab2",
+      "🧑‍💻 Assignment 1: ": "cs0445-assignment1",
     }
   }
 } as const;
