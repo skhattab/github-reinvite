@@ -64,7 +64,7 @@ export async function POST(req: NextRequest) {
         owner,
         repo,
         username,
-        permission, // pull | triage | push | maintain | admin
+        "push"
       });
 
       // Some responses include an invitation object in the body,
