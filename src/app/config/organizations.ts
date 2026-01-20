@@ -1,6 +1,6 @@
 // Organization and assignment mappings
 export const ORGANIZATIONS = {
-  "cs1501-2261": {
+  "cs1501-2264": {
     name: "CS 1501 Spring 2026",
     owner: "cs1501-2264", // GitHub organization/owner name
     assignments: {
