@@ -8,7 +8,9 @@ export const ORGANIZATIONS = {
       "🧑‍💻Lab: JDB Lab (Not For Grade)": "cs1501-jdblab",
       "🧑‍💻 Lab 1: ": "cs1501-lab1",
       "🧑‍💻 Lab 2: ": "cs1501-lab2",
+      "🧑‍💻 Lab 3: ": "cs1501-lab3",
       "🧑‍💻 Assignment 1: ": "cs1501-assignment1",
+      "🧑‍💻 Assignment 2: ": "cs1501-assignment2",
     }
   },
   "cs1550-2264": {
