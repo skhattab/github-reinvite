@@ -4,7 +4,6 @@ export const ORGANIZATIONS = {
     name: "CS 1501 Spring 2026",
     owner: "cs1501-2264", // GitHub organization/owner name
     assignments: {
-
       "🧑‍💻Lab: JDB Lab (Not For Grade)": "cs1501-jdblab",
       "🧑‍💻 Lab 1: ": "cs1501-lab1",
       "🧑‍💻 Lab 2: ": "cs1501-lab2",
