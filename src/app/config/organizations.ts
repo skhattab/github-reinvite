@@ -8,6 +8,7 @@ export const ORGANIZATIONS = {
       "🧑‍💻 Lab 1: ": "cs1501-lab1",
       "🧑‍💻 Lab 2: ": "cs1501-lab2",
       "🧑‍💻 Lab 3: ": "cs1501-lab3",
+      "🧑‍💻 DLB Lab": "cs1501-DLBTrie",
       "🧑‍💻 Assignment 1: ": "cs1501-assignment1",
       "🧑‍💻 Assignment 2: ": "cs1501-assignment2",
     }
@@ -19,6 +20,7 @@ export const ORGANIZATIONS = {
       "🧑‍💻 Lab 1: ": "cs1550-lab1",
       "🧑‍💻 Lab 2: ": "cs1550-lab2",
       "🧑‍💻 Project 1: ": "cs1550-project1",
+      "🧑‍💻 Project 2: ": "cs1550-project2",
     }
   }
 } as const;
