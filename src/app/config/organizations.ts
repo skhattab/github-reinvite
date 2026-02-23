@@ -19,6 +19,7 @@ export const ORGANIZATIONS = {
     assignments: {
       "🧑‍💻 Lab 1: ": "cs1550-lab1",
       "🧑‍💻 Lab 2: ": "cs1550-lab2",
+      "🧑‍💻 Lab 3: ": "cs1550-lab3",
       "🧑‍💻 Project 1: ": "cs1550-project1",
       "🧑‍💻 Project 2: ": "cs1550-project2",
     }
