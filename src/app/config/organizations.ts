@@ -9,8 +9,10 @@ export const ORGANIZATIONS = {
       "🧑‍💻 Lab 2: ": "cs1501-lab2",
       "🧑‍💻 Lab 3: ": "cs1501-lab3",
       "🧑‍💻 DLB Lab": "cs1501-DLB",
+      "🧑‍💻 Lab 4": "cs1501-lab4",
       "🧑‍💻 Assignment 1: ": "cs1501-assignment1",
       "🧑‍💻 Assignment 2: ": "cs1501-assignment2",
+      "🧑‍💻 Assignment 3: ": "cs1501-assignment3",
     }
   },
   "cs1550-2264": {
