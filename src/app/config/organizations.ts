@@ -11,6 +11,7 @@ export const ORGANIZATIONS = {
       "🧑‍💻 DLB Lab": "cs1501-DLB",
       "🧑‍💻 Lab 4": "cs1501-lab4",
       "🧑‍💻 Lab 5": "cs1501-lab5",
+      "🧑‍💻 BFS and Dijsktras": "cs1501-bfs-dijkstras",
       "🧑‍💻 Lab 6": "cs1501-lab6",
       "🧑‍💻 Assignment 1: ": "cs1501-assignment1",
       "🧑‍💻 Assignment 2: ": "cs1501-assignment2",
