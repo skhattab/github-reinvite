@@ -33,6 +33,7 @@ export const ORGANIZATIONS = {
       "🧑‍💻 Project 2: ": "cs1550-project2",
       "🧑‍💻 Project 3: ": "cs1550-project3",
       "🧑‍💻 Project 4: ": "cs1550-project4",
+      "🧑‍💻 Demo for Project 4: ": "project4demo"
     }
   }
 } as const;
