@@ -13,6 +13,7 @@ export const ORGANIZATIONS = {
       "🧑‍💻 Lab 5": "cs1501-lab5",
       "🧑‍💻 BFS and Dijsktras": "cs1501-bfs-dijkstras",
       "🧑‍💻 Lab 6": "cs1501-lab6",
+      "🧑‍💻 Bonus Lab": "cs1501-bonus-lab",
       "🧑‍💻 Assignment 1: ": "cs1501-assignment1",
       "🧑‍💻 Assignment 2: ": "cs1501-assignment2",
       "🧑‍💻 Assignment 3: ": "cs1501-assignment3",
@@ -33,7 +34,8 @@ export const ORGANIZATIONS = {
       "🧑‍💻 Project 2: ": "cs1550-project2",
       "🧑‍💻 Project 3: ": "cs1550-project3",
       "🧑‍💻 Project 4: ": "cs1550-project4",
-      "🧑‍💻 Demo for Project 4: ": "project4demo"
+      "🧑‍💻 Demo for Project 4: ": "project4demo",
+      "🧑‍💻 Fuse Lab: ": "fuselab"
     }
   }
 } as const;
