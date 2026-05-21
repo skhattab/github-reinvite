@@ -37,6 +37,45 @@ export const ORGANIZATIONS = {
       "🧑‍💻 Demo for Project 4: ": "project4demo",
       "🧑‍💻 Fuse Lab: ": "fuselab"
     }
+  },
+  "cs0447-2267": {
+    name: "CS 0447 Summer 2026",
+    owner: "cs0447-2267", // GitHub organization/owner name
+    assignments: {
+      "🧑‍💻 Lab 1: ": "cs0447-lab1",
+      "🧑‍💻 Lab 2: ": "cs0447-lab2",
+      "🧑‍💻 Lab 3: ": "cs0447-lab3",
+      "🧑‍💻 Lab 4: ": "cs0447-lab4",
+      "🧑‍💻 Lab 5: ": "cs0447-lab5",
+      "🧑‍💻 Lab 6: ": "cs0447-lab6",
+      "🧑‍💻 Lab 7: ": "cs0447-lab7",
+      "🧑‍💻 Lab 8: ": "cs0447-lab8",
+      "🧑‍💻 Lab 9: ": "cs0447-lab9",
+      "🧑‍💻 Lab 10: ": "cs0447-lab10",
+      "🧑‍💻 Project 1: ": "cs0447-project1",
+      "🧑‍💻 Project 2: ": "cs0447-project2",
+      "🧑‍💻 Project 3: ": "cs0447-project3"           
+    },
+     "cs0449-2267": {
+    name: "CS 0449 Summer 2026",
+    owner: "cs0449-2267", // GitHub organization/owner name
+    assignments: {
+      "🧑‍💻 Lab 1: ": "cs0449-lab1",
+      "🧑‍💻 Lab 2: ": "cs0449-lab2",
+      "🧑‍💻 Lab 3: ": "cs0449-lab3",
+      "🧑‍💻 Lab 4: ": "cs0449-lab4",
+      "🧑‍💻 Lab 5: ": "cs0449-lab5",
+      "🧑‍💻 Lab 6: ": "cs0449-lab6",
+      "🧑‍💻 Lab 7: ": "cs0449-lab7",
+      "🧑‍💻 Lab 8: ": "cs0449-lab8",
+      "🧑‍💻 Lab 9: ": "cs0449-lab9",
+      "🧑‍💻 Lab 10: ": "cs0449-lab10",
+      "🧑‍💻 Project 1: ": "cs0449-project1",
+      "🧑‍💻 Project 2: ": "cs0449-project2",
+      "🧑‍💻 Project 3: ": "cs0449-project3",
+      "🧑‍💻 Project 4: ": "cs0449-project4",
+      "🧑‍💻 Project 5: ": "cs0449-project5"           
+    }
   }
 } as const;
 
