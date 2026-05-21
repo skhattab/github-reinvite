@@ -54,9 +54,10 @@ export const ORGANIZATIONS = {
       "🧑‍💻 Lab 10: ": "cs0447-lab10",
       "🧑‍💻 Project 1: ": "cs0447-project1",
       "🧑‍💻 Project 2: ": "cs0447-project2",
-      "🧑‍💻 Project 3: ": "cs0447-project3"           
-    },
-     "cs0449-2267": {
+      "🧑‍💻 Project 3: ": "cs0447-project3"
+    }
+  },
+  "cs0449-2267": {
     name: "CS 0449 Summer 2026",
     owner: "cs0449-2267", // GitHub organization/owner name
     assignments: {
